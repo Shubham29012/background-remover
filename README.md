@@ -25,9 +25,13 @@ CUDA: None
 
 To install ffmpeg and python-dev
 
-```
+
+download and install : https://ffmpeg.org
 
 ```
+pip install python-dev-tools
+```
+
 
 ### Installation
 To Install backgroundremover, install it from pypi
